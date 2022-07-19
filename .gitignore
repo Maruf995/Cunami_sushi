@@ -1,0 +1,10 @@
+db.sqlite3
+.idea
+venv
+drink
+food
+media
+idea/workspace.xml
+__pycache__
+user-ava
+static
